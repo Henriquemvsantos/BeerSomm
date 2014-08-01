@@ -30,3 +30,39 @@ footer{
 	margin-bottom:10px
 	
 }
+#msg1{
+	font-size: 25px;
+	font-family: calibri;
+    color: #000000;
+	width:290px;
+	margin:auto;
+	margin-top:100px;	
+}
+#login-dialog{
+	width:290px;
+	margin:auto;
+	margin-top:130px;	
+}
+#msg2{
+	font-size: 15px;
+	font-family: calibri;
+    color: #000000;
+	width:290px;
+	margin:auto;
+	margin-top:50px;	
+}
+
+h1{
+	font-size:24px;
+	font-weight:normal;
+	padding:0px;
+	margin:opx;
+	
+}
+.gridLogin{
+	background-color:#FFD700;
+	border-radius:10px;
+	border: 2px solid #ccc;
+	margin-top:8px;
+	padding:15px;
+}

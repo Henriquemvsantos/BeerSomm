@@ -9,7 +9,7 @@
 
 	<properties>
 		<!-- Padronizando as fontes de codificação -->
-		<project.build.sourceEncoding>UTF-08</project.build.sourceEncoding>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
 	<dependencies>

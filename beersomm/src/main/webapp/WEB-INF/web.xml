@@ -6,7 +6,7 @@ xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns
   
   
   <welcome-file-list>
-  <welcome-file>formHome.xhtml</welcome-file>
+  <welcome-file>Home.xhtml</welcome-file>
   </welcome-file-list>
   
   
